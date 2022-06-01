@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula0524C", "Aula0524C\Aula
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuestoesProva2.1", "QuestoesProva2.1\QuestoesProva2.1.vcxproj", "{CE2ECE98-A850-4DED-9153-22A8586B2E30}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Aula0531A", "Aula0531A\Aula0531A.vcxproj", "{DAAA3C36-2180-42D4-B860-40ABC79C2F27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{CE2ECE98-A850-4DED-9153-22A8586B2E30}.Release|x64.Build.0 = Release|x64
 		{CE2ECE98-A850-4DED-9153-22A8586B2E30}.Release|x86.ActiveCfg = Release|Win32
 		{CE2ECE98-A850-4DED-9153-22A8586B2E30}.Release|x86.Build.0 = Release|Win32
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Debug|x64.ActiveCfg = Debug|x64
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Debug|x64.Build.0 = Debug|x64
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Debug|x86.Build.0 = Debug|Win32
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Release|x64.ActiveCfg = Release|x64
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Release|x64.Build.0 = Release|x64
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Release|x86.ActiveCfg = Release|Win32
+		{DAAA3C36-2180-42D4-B860-40ABC79C2F27}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
